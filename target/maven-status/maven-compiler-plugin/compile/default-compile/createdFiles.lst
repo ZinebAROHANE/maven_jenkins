@@ -1,0 +1,4 @@
+META-INF\spring.components
+org\exemple\tp3\Greeting.class
+org\exemple\tp3\GreetingController.class
+org\exemple\tp3\App.class

@@ -1,0 +1,2 @@
+org.exemple.tp3.App=org.springframework.stereotype.Component
+org.exemple.tp3.GreetingController=org.springframework.stereotype.Component
