@@ -34,7 +34,7 @@ pipeline {
                       }
                        post {
                           always {
-                              cobertura coberturaReportFile : 'C:\DevOps\my-maven-app/target/site/cobetura/coverage.xml'
+                              cobertura coberturaReportFile : '/target/site/cobetura/coverage.xml'
                           }
                       }
                   }
